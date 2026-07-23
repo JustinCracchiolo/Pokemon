@@ -1,0 +1,21 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#home-page {
+    background-color: bisque;
+
+    height: 100vh;
+    width: 100vw;
+}
+
+#title {
+    
+}
+
+#search-bar {
+    text-align: center;
+    height: 30px;
+}
